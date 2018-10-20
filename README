@@ -1,0 +1,7 @@
+This is a craptacular impl ofa feed forward neural net in c++. It will improve
+over time, a I learn more about it.
+
+Instead of using something like Numpy and TensorFlow, I wanted to see how this
+worked at a much more fundamental level, hence I wrote it from scratch.
+
+

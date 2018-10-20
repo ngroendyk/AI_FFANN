@@ -1,0 +1,5 @@
+*.o
+*.exc
+tags
+data/*
+
